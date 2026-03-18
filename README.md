@@ -14,6 +14,11 @@ The project is a communication dissemention system designed for employees to acc
 - Change the attributes in the classes to fit the database. A class is defined for each table in the database
 - Run the script on the server
 
+###Video's
+
+admin view: https://youtu.be/RY1o1-MWmyI?si=_NHf5mQPtr_XugL4
+general user view: https://youtu.be/PTmqvno_BT4?si=mq3-P_rbQh-BFIb8
+
 ## Author
 
 Drew
